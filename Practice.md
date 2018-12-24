@@ -7,5 +7,6 @@
 * [w3resource.com](https://www.w3resource.com/cpp-exercises/basic/index.php)
 * [acm.timus.ru](http://acm.timus.ru/problemset.aspx)
  
-
+Для изучения Python
+https://checkio.org
 
